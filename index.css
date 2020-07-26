@@ -65,10 +65,9 @@ body {
 }
 
 #display {
-  width: 64vw; /*64vw 1200px*/
+  width: 50vw; /*64vw 1200px*/
   padding: 4vh 3vw;
   height: 92vh;
-  position: absolute;
   display: inline-block;
   padding-left: 33vw;
 }
@@ -432,7 +431,7 @@ body {
   background: var(--text-color);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1600px) {
   #profile {
     width: 90vw;
     padding: 4vh 5vw;
