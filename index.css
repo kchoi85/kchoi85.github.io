@@ -65,7 +65,7 @@ body {
 }
 
 #display {
-  width: 60%; /*64vw 1200px*/
+  width: 44vw; /*64vw 1200px*/
   padding: 4vh 3vw;
   height: 92vh;
   position: absolute;
@@ -284,7 +284,6 @@ body {
 #work {
   margin: 2vh 0px;
   padding: 4vh 0px !important;
-
   margin: 0px;
 }
 
@@ -443,7 +442,6 @@ body {
   }
 
   #display {
-    width: 90vw;
     padding: 4vh 5vw;
     height: auto;
     display: inline-block;
