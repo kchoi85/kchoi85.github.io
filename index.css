@@ -65,7 +65,7 @@ body {
 }
 
 #display {
-  width: 40vw; /*64vw 1200px*/
+  width: 80vw; /*64vw 1200px*/
   padding: 4vh 3vw;
   height: 92vh;
   display: inline-block;
